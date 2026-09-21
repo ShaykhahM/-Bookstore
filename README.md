@@ -1,3 +1,6 @@
+
+
+
 <div dir="rtl" style="text-align: right;">
 
 # 📚 Bookstore | نظام إدارة الكتب
@@ -69,3 +72,30 @@
 بعد تحميل المشروع وفتح مجلد `Bookstore` في الـ Terminal، نفّذ الأمر التالي:
 ```bash
 node books.js
+
+```
+
+
+
+---
+
+## 📁 هيكلية المشروع (Project Structure)
+<div dir="ltr" style="text-align: left;">
+
+```text
+Bookstore/
+└── books.js
+
+```
+
+---
+
+## 🎯 الهدف من المشروع (Project Goals)
+
+يهدف المشروع إلى تطبيق أساسيات JavaScript بشكل عملي من خلال إنشاء نظام بسيط لإدارة بيانات الكتب وتنفيذ عمليات البحث، الإضافة، التعديل، والحذف.
+
+---
+
+## 📚 البرنامج والتدريب (Academy Course)
+
+تم تنفيذ المشروع ضمن الدورة التدريبية على البرمجة باستخدام منصة سطر (Satar Platform).
